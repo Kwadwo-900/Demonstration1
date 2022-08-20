@@ -32,5 +32,6 @@
         #endregion
 
         private TextBox textBox1;
+        private Button ctnButton;
     }
 }
